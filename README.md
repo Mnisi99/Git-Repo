@@ -1,2 +1,3 @@
 # Git-Repo
-Learning Git as I go
+
+This is my git Project.
